@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\calisma-1\guessGamee\bin\Debug\guessGamee.exe.config
+C:\Users\asus\source\repos\calisma-1\guessGamee\bin\Debug\guessGamee.exe
+C:\Users\asus\source\repos\calisma-1\guessGamee\bin\Debug\guessGamee.pdb
+C:\Users\asus\source\repos\calisma-1\guessGamee\obj\Debug\guessGamee.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\calisma-1\guessGamee\obj\Debug\guessGamee.exe
+C:\Users\asus\source\repos\calisma-1\guessGamee\obj\Debug\guessGamee.pdb
